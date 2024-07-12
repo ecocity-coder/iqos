@@ -1,3 +1,4 @@
+![alt text](https://github.com/ecocity-coder/store/blob/main/2024-07-06_22-33-06.png)
 <p><strong>Аналитическое исследование продаж, возвратов и обращений за ремонтом нагревателей табака</strong></p>
 from google.colab import files
 
