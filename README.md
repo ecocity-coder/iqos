@@ -1,4 +1,4 @@
-iqos.png![alt text](https://github.com/ecocity-coder/store/blob/main/iqos.png)
+![alt text](https://github.com/ecocity-coder/store/blob/main/iqos.png)
 
 <p><strong>Аналитическое исследование продаж, возвратов и обращений за ремонтом нагревателей табака</strong></p>
 from google.colab import files
